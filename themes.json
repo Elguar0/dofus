@@ -22,5 +22,17 @@
 		"previewUrl" : "https://github.com/Elguar0/dofus/raw/main/Mercenary.jpg",
 		"creationDate" : "20/06/2024",
 		"modificationDate" : "20/06/2024"
+	},
+	{
+		"author" : "Tastywaffle updated by Dictature",
+		"name" : "Darkfus",
+		"keyWords" : "Darkfus",
+		"version" : "1.5.2",
+		"dofusVersion" : "2.71",
+		"description" : "Test",
+		"url" : "https://github.com/Elguar0/dofus/raw/main/Darkfus.zip",
+		"previewUrl" : "https://github.com/Elguar0/dofus/raw/main/darkfusPreview.jpg",
+		"creationDate" : "20/06/2023",
+		"modificationDate" : "20/06/2023"
 	}
 ]
